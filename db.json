@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "ddac7c2e-5231-4fbf-ae1e-bf5d4f0e057f",
+      "name": "Ayesha",
+      "email": "ayesha@gmail.com"
+    },
+    {
+      "id": "358bf953-6a01-401a-bdad-5a2a500c15d6",
+      "name": "Huzaifa Ahmed",
+      "email": "huzaifaa190@gmail.com"
+    },
+    {
+      "id": "a74f7731-c621-4b7e-8257-dd7a47e2f2c6",
+      "name": "zain zahid",
+      "email": "zain@gmail.com"
+    },
+    {
+      "id": "a2bbb8fa-7361-4569-9799-9ff180fc30d8",
+      "name": "asma",
+      "email": "asma@outlook.com"
+    },
+    {
+      "id": "75cedf65-2a1f-408e-8d8a-37180fbc1aa4",
+      "name": "Huzaifa Ahmed",
+      "email": "huzaifaa190@gmail.com"
+    }
+  ]
+}
